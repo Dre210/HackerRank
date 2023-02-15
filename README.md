@@ -1,2 +1,1 @@
-# HackerRank
-wored  to some HackerRank 
+# SQL query solutions to some HackerRank questions 
